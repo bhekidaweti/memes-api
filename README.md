@@ -3,7 +3,7 @@ This API allows you to scrape and retrieve memes from Reddit and upload your own
 
 # Setup
 clone the repository:
-git clone 
+git clone https://github.com/bhekidaweti/memes-api.git
 install the required dependecies:
 pip install -r requiremnets.txt
 Create a .env file in the root directory with the following content:
